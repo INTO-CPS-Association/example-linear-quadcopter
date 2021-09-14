@@ -44,5 +44,5 @@ This work proposes a method and tools tovalidate the design of Unmanned Aerial V
 
 # Contacts
 
-For futher information contact Maurizio Palmieri at maurizio.palmeiri@ing.unipi.it
+For futher information contact Maurizio Palmieri at maurizio.palmieri@ing.unipi.it
 
