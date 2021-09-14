@@ -1,5 +1,5 @@
-# Drones
-Repository of the UAV FMI co-simulation with INTO-CPS and PVS formal prover
+# PVS-Checked Linear Quadcopter Swarm
+This work proposes a method and tools tovalidate the design of Unmanned Aerial Vehicle co-operative systems based on co-simulation and formal verification.  The method uses the Prototype VerificationSystem, an interactive theorem prover based on a higher-order logic language, andthe Functional Mock-up Interface, a widely accepted standard for co-simulation.
 
 # Requirements
  1. Linux-like OS (currently tested on Ubuntu 16.04)
