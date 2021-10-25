@@ -62,7 +62,7 @@ require([
 		}
 		*/
 		
-		console.log(pos);
+		console.log(res);
     }
 
     // web socket client
